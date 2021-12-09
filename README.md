@@ -1,1 +1,2 @@
-# task-tracker
+
+![Project Snapshot](task-tracker.gif)
